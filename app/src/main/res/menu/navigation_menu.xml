@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="For Fun"
+        android:id="@+id/ForFun"
+        android:icon="@mipmap/ic_launcher"></item>
+
+    <item android:title="We Fly"
+        android:id="@+id/WeFly"
+        android:icon="@mipmap/ic_launcher"></item>
+
+    <item android:title="We Run"
+        android:id="@+id/WeRun"
+        android:icon="@mipmap/ic_launcher"></item>
+</menu>
